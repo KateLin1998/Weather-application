@@ -1,0 +1,70 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 30px;
+  margin: 0px;
+ }
+
+ p {
+  margin: 0px;
+  padding: 0px;
+ }
+
+.col {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.cloud,
+.cloud-sun,
+.bolt,
+.wind,
+.sun {
+  font-size: 50px;
+}
+
+.cloud {
+  color: blue;
+}
+
+.cloud-sun {
+  color: orangered;
+}
+
+.bolt {
+  color: rgb(255, 247, 20);
+}
+
+.wind {
+  color: grey;
+}
+
+.sun {
+  color: rgb(230, 230, 19);
+}
+
+.cloudy {
+  text-align: left;
+  color: blue;
+  font-size: 80px;
+}
+
+.city {
+  text-align: center;
+  font-size: 30px;
+}
+
+.information {
+  font-size: 25px;
+  margin-top: 0px;
+}
