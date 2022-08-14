@@ -3,14 +3,14 @@ h1 {
 }
 
 h2 {
-  font-weight: 400;
+  font-weight: 300;
   font-size: 20px;
   margin: 0px;
   padding: 0px;
 }
 
 h3 {
-  font-weight: 400;
+  font-weight: 300;
   font-size: 30px;
   margin: 0px;
  }
@@ -21,7 +21,7 @@ h3 {
  }
 
 .col {
-  font-weight: 400;
+  font-weight: 300;
   font-size: 20px;
 }
 
